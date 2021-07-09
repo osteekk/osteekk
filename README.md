@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandr Sharuev
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Windows Server
-- 💞️ I’m looking to collaborate with Bakotech
+- 💞️ I’m looking to collaborate with Bakotech :)
 - 📫 How to reach me ssharuev@gmail.com
 
 <!---
